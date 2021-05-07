@@ -3,3 +3,5 @@
 Format Preserving Encryption as presented in the NIST 800-38G Recommendation for Block Cipher: Methods for Format Preserving Encryption.
 
 This implementation only supports the FF1 mode of operation-
+
+Format preserving encryption implementation I did years ago for uni project. don't use this for crypto. or anything really.
